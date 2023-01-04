@@ -4,6 +4,6 @@
   <h3> Project Updated! </h3>
   <h3> Good luck to everbody... </h3>
   <h3> You are doing good work ... </h3>
-  <h3> Hands-on Finished... </h3>
+  <h3> Hands-on Finished... The End... </h3>
 </body>
 </html>
